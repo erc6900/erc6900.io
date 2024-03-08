@@ -4,12 +4,6 @@ description: Everything you need to build on top of ERC-6900
 
 # Build
 
-## Supported Plugins
-
-[Token Receiver Plugin](https://github.com/erc6900/reference-implementation/blob/a641a767edae50094a7f9381ef0e58ac1b5119b3/src/plugins/TokenReceiverPlugin.sol) - This plugin allows modular accounts to receive various types of tokens by implementing required token receiver interfaces&#x20;
-
-
-
 ## Build new plugins
 
 **Fill out** [**this short application**](https://alchemyu.typeform.com/to/Sh3Errb3) - to enable 6900 ecosystem coordinators support you (with tools, guidance) and to make sure we avoid teams unintentionally working on duplicative plugins
