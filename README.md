@@ -6,4 +6,4 @@ ERC-6900 is laying the groundwork for a future of permissionless innovation in m
 [Community](community.md): 6900 community call notes, forums, and how to get involved.\
 [Build](build.md): everything you need to build on top of ERC-6900\
 \
-For a broader introduction to the standard, check out our [Resources](https://www.erc6900.io/home/resources) page.&#x20;
+For a broader introduction to the standard, check out our [resources](resources.md) page.&#x20;
