@@ -1,3 +1,7 @@
+---
+description: Resources covering 6900's motivation and design
+---
+
 # Learn
 
 ## The standard
@@ -9,9 +13,7 @@ More specifically, the standard focuses on two key goals:&#x20;
 * Provide standards for designing plugins for smart contract accounts.
 * Provide standards for how compliant accounts should interact with plugins.
 
-To learn more about the standard and its goals, read this [blog post](https://alchemy.com/blog/account-abstraction-erc-6900).&#x20;
-
-\
+To learn more about the standard and its goals, read this [blog post](https://alchemy.com/blog/account-abstraction-erc-6900). \
 
 
 ## Design goals

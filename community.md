@@ -1,3 +1,7 @@
+---
+description: 6900 community call notes, forums, and how to get involved
+---
+
 # Community
 
 Community calls are held roughly every other week, following an agenda posted to [Issues](https://github.com/erc6900/resources/issues?q=is%3Aopen+is%3Aissue+label%3A%22community+call+agenda%22). Community members are welcome to request a discussion of topics by posting a comment to a given meeting's agenda.
