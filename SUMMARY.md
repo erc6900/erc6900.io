@@ -4,3 +4,4 @@
 * [Learn](learn.md)
 * [Community](community.md)
 * [Build](build.md)
+* [Resources](resources.md)
