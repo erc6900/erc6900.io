@@ -1,4 +1,4 @@
-# Home
+# ERC-6900
 
 ERC-6900 is laying the groundwork for a future of permissionless innovation in modular smart accounts. By standardizing account interfaces and plugins, 6900 seeks to make it easier for developers to build secure, interoperable and composable modular smart accounts and plugins. \
 \
