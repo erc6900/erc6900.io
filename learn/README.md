@@ -28,7 +28,7 @@ ERC-6900 is designed to enable developers across the ecosystem to build interope
 * Minimize complexity and ability to land in undefined account states
 * Be as non-prescriptive as possible in the functionality enabled by the standard
 
-Read more about  the  standard's architecture  at  [Ethereum Magicians](https://eips.ethereum.org/EIPS/eip-6900).\
+Read more about  the  standard's architecture at [Ethereum Magicians](https://eips.ethereum.org/EIPS/eip-6900).\
 \
 
 
@@ -40,7 +40,7 @@ Plugin designers following the standard can work with three standardized compone
 * Execution functions are smart contracts that specify the execution logic for functions within a plugin.
 * Hooks specify more fine-grained actions and validations that can be designed to occur pre- or post-validation, and pre- or post-execution.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Standardizing interfaces
 
