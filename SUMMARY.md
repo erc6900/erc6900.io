@@ -10,6 +10,4 @@
     * [Session Keys Plugin](plugins/available-plugins/session-keys-plugin.md)
     * [Multi-owner Plugin](plugins/available-plugins/multi-owner-plugin.md)
     * [Cold Storage Plugin](plugins/available-plugins/cold-storage-plugin.md)
-  * [Plugin Development Tools](plugins/plugin-development-tools.md)
   * [Plugin Bounties](plugins/plugin-bounties.md)
-* [Resources](resources.md)
