@@ -9,5 +9,3 @@ Previous community call notes and recordings can be found in [Community Calls](h
 ## Standard Improvements
 
 Ideas and proposals for standard improvements are found in [Issues](https://github.com/erc6900/resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22Standards+Improvement%22).
-
-##
