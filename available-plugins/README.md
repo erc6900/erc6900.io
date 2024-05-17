@@ -8,6 +8,7 @@ description: Upgrade functionality for ERC-6900 smart contract accounts.
 * [Multi-owner](multi-owner-plugin.md)
 * [Cold Storage](cold-storage-plugin.md)
 * [Multisig](multisig-plugin.md)
+* [Webauthn Owner](webauthn-owner-plugin.md)
 
 ## What are ERC-6900 plugins?
 

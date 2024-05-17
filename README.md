@@ -14,6 +14,8 @@ ERC-6900 is laying the groundwork for a future of permissionless innovation in m
 
 [Build a Plugin](build-a-plugin.md): everything you need to build on top of ERC-6900
 
+[Roadmap](https://github.com/orgs/erc6900/projects/1): see what the working team is focusing on next
+
 ## Stay In Touch
 
 * [Telegram](https://t.me/+KfB9WuhKDgk5YzIx)

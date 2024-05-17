@@ -19,10 +19,6 @@ description: >-
   * `upgradeToAndCall`
   * `execute` / `executeBatch`
 
-## Authors
+## Author
 
-{% embed url="https://github.com/adamegyed" %}
-
-{% embed url="https://github.com/jaypaik" %}
-
-{% embed url="https://github.com/howydev" %}
+[<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FImI9L0KXrv1O4bMTE21k%2Fuploads%2FzQq2looZUut1yU9kV9fD%2Falchemy-logo-blue-gradient.png?alt=media&#x26;token=5cbd91f0-eae0-4bc9-92ba-790016af4e75" alt="Alchemy Logo" data-size="line">](https://www.alchemy.com)
