@@ -1,3 +1,7 @@
+---
+description: A glossary of common terms used in ERC-6900 documentation.
+---
+
 # Glossary
 
 * **ERC-4337**: community standard for Account Abstraction authored by the Ethereum Foundation. All smart accounts implement this standard interface. It also defines standard for the Bundler, Paymasters, and Entrypoint.

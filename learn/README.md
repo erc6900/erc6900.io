@@ -1,5 +1,5 @@
 ---
-description: Resources covering 6900's motivation and design
+description: Motivation and design behind the ERC-6900 standard.
 ---
 
 # Learn
