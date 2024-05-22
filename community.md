@@ -14,3 +14,7 @@ If you're interested in more active participation with the working group discuss
 
 Ideas and proposals for standard improvements are found in [Issues](https://github.com/erc6900/resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22Standards+Improvement%22).
 
+## Roadmap
+
+Check out the [Roadmap](https://github.com/orgs/erc6900/projects/1) to see what the working team is focusing on next!
+
