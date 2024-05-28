@@ -21,4 +21,4 @@ description: >-
 
 ## Author
 
-[<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FImI9L0KXrv1O4bMTE21k%2Fuploads%2FzQq2looZUut1yU9kV9fD%2Falchemy-logo-blue-gradient.png?alt=media&#x26;token=5cbd91f0-eae0-4bc9-92ba-790016af4e75" alt="Alchemy Logo" data-size="line">](https://www.alchemy.com)
+[<picture><source srcset="../.gitbook/assets/alchemy-logo-white.png" media="(prefers-color-scheme: dark)"><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FImI9L0KXrv1O4bMTE21k%2Fuploads%2FzQq2looZUut1yU9kV9fD%2Falchemy-logo-blue-gradient.png?alt=media&#x26;token=5cbd91f0-eae0-4bc9-92ba-790016af4e75" alt="Alchemy Logo" data-size="line"></picture>](https://www.alchemy.com)
