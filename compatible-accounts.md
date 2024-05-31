@@ -12,7 +12,7 @@ There are various implementations for ERC-6900 accounts including:
 
 ***
 
-### Modular Account
+## Modular Account
 
 A maximally modular, upgradeable smart contract account that is compatible with [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) and [ERC-6900](https://eips.ethereum.org/EIPS/eip-6900).
 
@@ -20,9 +20,21 @@ _Built by_ [_Alchemy_](https://www.alchemy.com)_._
 
 {% embed url="https://github.com/alchemyplatform/modular-account" %}
 
-#### Contract address:
+### Deployed Contract Addresses
 
-Add address
+{% embed url="https://accountkit.alchemy.com/smart-accounts/modular-account/deployments.html" %}
+
+Available on:
+
+* Ethereum
+* Polygon
+* Optimism
+* Arbitrum
+* Base
+* Zora
+* Fraxtal
+
+
 
 ***
 
