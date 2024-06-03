@@ -6,6 +6,10 @@ description: >-
 
 # Cold Storage Plugin
 
+{% hint style="danger" %}
+The code in this repository and its dependencies are not audited. It is not recommended for production use.
+{% endhint %}
+
 {% embed url="https://github.com/alchemyplatform/aa-virtual-cold-storage" %}
 
 ## Core features
