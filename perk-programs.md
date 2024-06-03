@@ -74,7 +74,7 @@ If you have any questions or want to chat further, please reach out to Omar at *
 
 ### Contact
 
-f you have any questions, please contact Mark at **@cyfrin\_mscrine on TG / mark@cyfrin.io** or Will at **@wn561 on TG / will@cyfrin.io**.
+If you have any questions, please contact Mark at **@cyfrin\_mscrine on TG / mark@cyfrin.io** or Will at **@wn561 on TG / will@cyfrin.io**.
 
 ### More Details
 
