@@ -6,9 +6,9 @@ description: Exclusive perks for developers building in the ERC-6900 ecosystem.
 
 We've partnered with various security experts to offer a range exclusive benefits and service discounts to developers building ERC-6900 plugins. Including:
 
-* [Quantstamp](perk-programs.md#quantstamp)
-* [Spearbit](perk-programs.md#spearbit)
-* [Cyfrin](perk-programs.md#cyfrin)
+* [Quantstamp](perk-programs.md#quantstamp-erc-6900-perks)
+* [Spearbit](perk-programs.md#spearbit-erc-6900-perks)
+* [Cyfrin](perk-programs.md#cyfrin-erc-6900-perks)
 
 ***
 
