@@ -79,3 +79,25 @@ If you have any questions, please contact Mark at **@cyfrin\_mscrine on TG / mar
 ### More Details
 
 {% embed url="https://cyfrin.notion.site/Cyfrin-CodeHawks-x-ERC-6900-Ecosystem-Partnership-c994e83b7d87419cada206ed08b3c3d7" %}
+
+***
+
+[<picture><source srcset=".gitbook/assets/credshields-logo.png" media="(prefers-color-scheme: dark)"><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FImI9L0KXrv1O4bMTE21k%2Fuploads%2FT7ACyuHpwzYkBiuHygsd%2Fcredshields-logo-black.png?alt=media&#x26;token=b2488c6d-4744-456c-8acf-36acca56d126" alt="CredShields Logo"></picture>](https://credshields.com/)
+
+## CredShields ERC-6900 Perks
+
+[CredShields](https://credshields.com/) is a dedicated team of security experts since 2021, providing comprehensive security solutions for Web3, including smart contract audits and wallet protection, to ensure digital asset safety and integrate security throughout the development process.
+
+### Benefits
+
+:money\_mouth: 15% discount on manual audits
+
+:money\_with\_wings: 25% discount on SolidityScan plans
+
+:tada: Priority queue access
+
+### Contact
+
+If you have any questions, please contact **info@credshields.com** or join the [telegram channel](https://t.me/solidityscan).
+
+***
