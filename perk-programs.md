@@ -9,6 +9,7 @@ We've partnered with various security experts to offer a range exclusive benefit
 * [Quantstamp](perk-programs.md#quantstamp-erc-6900-perks)
 * [Spearbit](perk-programs.md#spearbit-erc-6900-perks)
 * [Cyfrin](perk-programs.md#cyfrin-erc-6900-perks)
+* [CredShields](perk-programs.md#credshields-erc-6900-perks)
 
 ***
 
