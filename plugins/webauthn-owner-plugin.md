@@ -6,10 +6,6 @@ description: >-
 
 # Webauthn Owner Plugin
 
-{% hint style="danger" %}
-The code in this repository and its dependencies are still under audit. It is not yet recommended for production use.
-{% endhint %}
-
 {% embed url="https://github.com/exactly/webauthn-owner-plugin" %}
 
 ## Core Features
