@@ -14,5 +14,6 @@
   * [Webauthn Owner Plugin](plugins/webauthn-owner-plugin.md)
   * [Single-owner Plugin](plugins/single-owner-plugin.md)
   * [Default Token Callback Plugin](plugins/default-token-callback-plugin.md)
+  * [Subscription Plugin](plugins/subscription-plugin.md)
 * [Build a Plugin](build-a-plugin.md)
 * [Perk Programs](perk-programs.md)
