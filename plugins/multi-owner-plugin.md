@@ -6,7 +6,7 @@ description: >-
 
 # Multi-owner Plugin
 
-{% embed url="https://github.com/alchemyplatform/modular-account/tree/develop/src/plugins/owner" %}
+{% embed url="https://github.com/alchemyplatform/modular-account/tree/v1.0.x/src/plugins/owner" %}
 
 ## Core features
 
