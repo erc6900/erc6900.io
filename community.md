@@ -1,5 +1,6 @@
 ---
 description: Get involved building the future of the standard.
+hidden: true
 ---
 
 # Community

@@ -1,5 +1,6 @@
 ---
 description: Upgrade functionality for ERC-6900 smart contract accounts.
+hidden: true
 ---
 
 # Plugins

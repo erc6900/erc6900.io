@@ -1,5 +1,6 @@
 ---
 description: Exclusive perks for developers building in the ERC-6900 ecosystem.
+hidden: true
 ---
 
 # Perk Programs

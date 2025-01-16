@@ -1,5 +1,6 @@
 ---
 description: Motivation and design behind the ERC-6900 standard.
+hidden: true
 ---
 
 # Learn

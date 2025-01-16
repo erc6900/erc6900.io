@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The Official Resource for ERC-6900](README.md)
+* [The Official Resource for ERC-6900](<README (1).md>)
 * [Learn](learn/README.md)
   * [Resources](learn/resources.md)
   * [Glossary](learn/glossary.md)

@@ -1,5 +1,6 @@
 ---
 description: ERC-6900 compatible smart account implementations
+hidden: true
 ---
 
 # Compatible Accounts
