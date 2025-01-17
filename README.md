@@ -4,7 +4,7 @@ description: Interfaces for composable smart accounts
 
 # The Official Resource for ERC-6900
 
-## :construction: Under Maintenance :construction:
+## New ERC-6900 website coming soon! :eyes:
 
-Check back soon!
+:construction: Maintenance mode activated! :robot:
 
